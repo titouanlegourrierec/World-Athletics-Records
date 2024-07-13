@@ -1,0 +1,1 @@
+Folder containing the new data which will be compared to the old data in the data_before folder.
