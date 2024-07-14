@@ -72,6 +72,19 @@ def create_csv(content : str, csv_name : str) -> None:
     records.to_csv(csv_name, index=False)
 
 
+def dismiss_cookie_consent(driver):
+    try:
+        # Locate the cookie consent button by its ID or any other unique selector
+        consent_button = WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.ID, "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection"))
+        )
+        consent_button.click()
+        logging.info("Cookie consent dismissed.")
+    except Exception as e:
+        # If the cookie consent dialog is not found, ignore the exception
+        logging.info(f"Cookie consent dialog not found or already dismissed: {e}")
+
+
 def click_button(driver: webdriver.Chrome, xpath: str) -> None:
     """
     Clicks a button identified by an XPath on a webpage using Selenium WebDriver.
@@ -85,6 +98,8 @@ def click_button(driver: webdriver.Chrome, xpath: str) -> None:
         and asserts False to indicate failure.
     """
     try:
+        # Call dismiss_cookie_consent before attempting to click the target button
+        dismiss_cookie_consent(driver)
         button = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.XPATH, xpath))
         )
