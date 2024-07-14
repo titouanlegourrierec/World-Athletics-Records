@@ -1,0 +1,62 @@
+DISCIPLINE,PERF,COMPETITOR,DOB,COUNTRY,VENUE,DATE
+50 Metres,5.69,Gennadiy CHERNOVOL,06 JUN 1976,KAZ,Liévin (FRA) ,24 FEB 2002
+60 Metres,6.42,Bingtian SU,29 AUG 1989,CHN,"Arena Birmingham, Birmingham (GBR) ",03 MAR 2018
+100 Metres,9.83,Bingtian SU,29 AUG 1989,CHN,"National Stadium, Tokyo (JPN)",01 AUG 2021
+200 Metres,19.88,Zhenye XIE,17 AUG 1993,CHN,"Olympic Stadium, London (GBR)",21 JUL 2019
+200 Metres Short Track,20.63,Koji ITO,29 JAN 1970,JPN,"Green Dome, Maebashi (JPN) ",05 MAR 1999
+400 Metres,43.93,Youssef Ahmed MASRAHI,31 DEC 1987,KSA,"National Stadium, Beijing (CHN)",23 AUG 2015
+400 Metres Short Track,45.39,Abdalelah HAROUN,01 JAN 1997,QAT,"Globe Arena, Stockholm (SWE) ",19 FEB 2015
+800 Metres,1:42.79,Yusuf Saad KAMEL,29 MAR 1983,BRN,"Stade Louis II, Monaco (MON)",29 JUL 2008
+800 Metres Short Track,1:45.26,Yusuf Saad KAMEL,29 MAR 1983,BRN,"Velódromo Luis Puig, Valencia (ESP) ",09 MAR 2008
+1000 Metres,2:14.72,Yusuf Saad KAMEL,29 MAR 1983,BRN,Stockholm (SWE),22 JUL 2008
+1000 Metres Short Track,2:17.06,Belal Mansoor ALI,17 OCT 1988,BRN,Gent (BEL) ,24 FEB 2008
+1500 Metres,3:29.14,Rashid RAMZI,17 JUL 1980,BRN,"Stadio Olimpico, Roma (ITA)",14 JUL 2006
+1500 Metres Short Track,3:36.28,Belal Mansoor ALI,17 OCT 1988,BRN,Stockholm (SWE) ,20 FEB 2007
+Mile,3:47.97,Daham Najim BASHIR,08 NOV 1979,QAT,Oslo (NOR),29 JUL 2005
+Mile Short Track,3:54.84,Ryoma AOKI,16 JUN 1997,JPN,"Boston Univ. Track & Tennis Center, Boston, MA (USA) ",10 FEB 2024
+2000 Metres,4:55.57,Mohamed SULEIMAN,23 NOV 1969,QAT,"Stadio Olimpico, Roma (ITA)",08 JUN 1995
+3000 Metres,7:30.76,Jamal Bilal SALEM,12 SEP 1978,QAT,Doha (QAT),13 MAY 2005
+3000 Metres Short Track,7:31.77,Birhanu BALEW,27 FEB 1996,BRN,"Arena Stade Couvert, Liévin (FRA) ",17 FEB 2022
+5000 Metres,12:51.96,Albert ROP,17 JUL 1992,BRN,"Stade Louis II, Monaco (MON)",19 JUL 2013
+5000 Metres Short Track,13:08.41,Kieran TUNTIVATE,16 FEB 1997,THA,"Boston Univ. Track & Tennis Center, Boston, MA (USA) ",12 FEB 2022
+"10,000 Metres",26:38.76,Ahmad Hassan ABDULLAH,04 APR 1981,QAT,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2003
+"20,000 Metres",57:48.7,Toshihiko SEKO,15 JUL 1956,JPN,Odawara (JPN),11 MAY 1985
+One Hour,20410,Seiji KUSHIBE,11 NOV 1971,JPN,Tokyo (JPN),02 OCT 1996
+"25,000 Metres",1:13:55.8,Toshihiko SEKO,15 JUL 1956,JPN,Christchurch (NZL),22 MAR 1981
+"30,000 Metres",1:29:18.8,Toshihiko SEKO,15 JUL 1956,JPN,Christchurch (NZL),22 MAR 1981
+50 Metres Hurdles,6.44,Xiang LIU,13 JUL 1983,CHN,Liévin (FRA) ,28 FEB 2004
+60 Metres Hurdles,7.41,Xiang LIU,13 JUL 1983,CHN,"National Indoor Arena, Birmingham (GBR) ",18 FEB 2012
+110 Metres Hurdles,12.88,Xiang LIU,13 JUL 1983,CHN,"Stade Olympique de la Pontaise, Lausanne (SUI)",11 JUL 2006
+400 Metres Hurdles,46.98,Abderrahman SAMBA,05 SEP 1995,QAT,"Stade Charléty, Paris (FRA)",30 JUN 2018
+3000 Metres Steeplechase,7:53.63,Saif Saaeed SHAHEEN,15 OCT 1982,QAT,"Boudewijnstadion, Bruxelles (BEL)",03 SEP 2004
+High Jump,2.43,Mutaz Essa BARSHIM,24 JUN 1991,QAT,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2014
+Pole Vault,6.00,Ernest John OBIENA,17 NOV 1995,PHI,"Bryggen, Bergen (NOR)",10 JUN 2023
+Pole Vault,6.00,Ernest John OBIENA,17 NOV 1995,PHI,"Nemzeti Atlétikai Központ, Budapest (HUN)",26 AUG 2023
+Long Jump,8.48,Mohamed Salman AL KHUWALIDI,19 JUN 1981,KSA,Sotteville-lès-Rouen (FRA),02 JUL 2006
+Triple Jump,17.59,Yanxi LI,26 JUN 1984,CHN,Jinan (CHN),26 OCT 2009
+Shot Put,21.80,Mohamed Daouda TOLO,30 MAR 2001,KSA,"Estadio Vallehermoso, Madrid (ESP)",21 JUN 2024
+Discus Throw,69.32,Ehsan HADADI,20 JAN 1985,IRI,Tallinn (EST),03 JUN 2008
+Hammer Throw,84.86,Koji MUROFUSHI,08 OCT 1974,JPN,"Stadion Juliska, Praha (CZE)",29 JUN 2003
+Javelin Throw,91.36,Chao-Tsun CHENG,17 OCT 1993,TPE,"Taipei Municipal Stadium, Taipei City (TPE)",26 AUG 2017
+10 Kilometres Road,26:57,Birhanu BALEW,27 FEB 1996,BRN,Valencia (ESP),14 JAN 2024
+Half Marathon,58:40,Abraham CHEROBEN,11 OCT 1992,BRN,København (DEN),17 SEP 2017
+Marathon,2:04:43,El Hassan EL ABBASSI,13 APR 1984,BRN,Valencia (ESP),02 DEC 2018
+100 Kilometres Road,6:09:14,Nao KAZAMI,09 APR 1983,JPN,Lake Saroma (JPN),24 JUN 2018
+5000 Metres Race Walk Short Track,19:14.00,Sergey KOREPANOV,09 MAY 1964,KAZ,Karaganda (KAZ) ,28 JAN 1995
+"20,000 Metres Race Walk",1:18:03.3,Lingtang BO,12 AUG 1970,CHN,Beijing (CHN),07 APR 1994
+20 Kilometres Race Walk,1:16:36,Yusuke SUZUKI,02 JAN 1988,JPN,Nomi (JPN),15 MAR 2015
+35 Kilometres Race Walk,2:22:55,Xianghong HE,01 JUL 1998,CHN,Huangshan (CHN),04 MAR 2023
+"50,000 Metres Race Walk",3:48:13.7,Yongsheng ZHAO,16 APR 1970,CHN,Fana (NOR),07 MAY 1994
+50 Kilometres Race Walk,3:36:06,Chaohong YU,03 NOV 1975,CHN,Nanjing (CHN),22 OCT 2005
+Decathlon,8725,Dmitriy KARPOV,23 JUL 1981,KAZ,"Olympic Stadium, Athina (GRE)",24 AUG 2004
+Heptathlon Short Track,6229,Dmitriy KARPOV,23 JUL 1981,KAZ,Tallinn (EST) ,16 FEB 2008
+4x100 Metres Relay,37.43,Sichuan,,JPN,"Khalifa International Stadium, Doha (QAT)",05 OCT 2019
+4x200 Metres Relay,1:20.83,Sichuan,,CHN,Xi'an (CHN),23 SEP 2021
+4x200 Metres Relay,1:20.83,Sichuan,,CHN,Xi'an (CHN),23 SEP 2021
+4x200 Metres Relay Short Track,1:26.70,Sichuan,,KAZ,Ust-Kamenogorsk (KAZ) ,15 JAN 2018
+4x400 Metres Relay,2:59.05,Sichuan,,IND,"Nemzeti Atlétikai Központ, Budapest (HUN)",26 AUG 2023
+4x400 Metres Relay Short Track,3:05.90,Sichuan,,JPN,"Green Dome, Maebashi (JPN) ",06 MAR 1999
+4x800 Metres Relay,7:06.66,Sichuan,,QAT,"Boudewijnstadion, Bruxelles (BEL)",25 AUG 2006
+4x800 Metres Relay Short Track,8:48.6,Sichuan,,JPN,Tokyo (JPN) ,19 MAR 1961
+4x1500 Metres Relay,15:10.77,Sichuan,,QAT,"T. Robinson Stadium, Nassau (BAH)",25 MAY 2014
+Road Relay,1:58:58,Sichuan,,JPN,Chiba (JPN),23 NOV 2005

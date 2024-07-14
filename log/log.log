@@ -5,3 +5,174 @@
 2024-07-14 09:52:37,144 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff18b6f92d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/f95b12aa92853e1d6d9011753de1728e
 2024-07-14 09:52:37,144 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff18b6f8810>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/f95b12aa92853e1d6d9011753de1728e
 2024-07-14 09:52:37,144 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff18b6fa4d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/f95b12aa92853e1d6d9011753de1728e
+2024-07-14 09:59:16,428 - INFO - Processing category: world-records
+2024-07-14 09:59:46,604 - INFO - Cookie consent dismissed.
+2024-07-14 09:59:47,042 - INFO - Files data/data_after/women_world_records.csv and data/data_after/men_world_records.csv have been created successfully.
+2024-07-14 09:59:47,043 - INFO - Processing category: olympic-games-records
+2024-07-14 10:00:16,928 - INFO - Cookie consent dialog not found or already dismissed: Message: 
+Stacktrace:
+#0 0x557ccf301c7a <unknown>
+#1 0x557ccefe4e2c <unknown>
+#2 0x557ccf031661 <unknown>
+#3 0x557ccf031751 <unknown>
+#4 0x557ccf075f64 <unknown>
+#5 0x557ccf0545ed <unknown>
+#6 0x557ccf073303 <unknown>
+#7 0x557ccf054363 <unknown>
+#8 0x557ccf024247 <unknown>
+#9 0x557ccf024b9e <unknown>
+#10 0x557ccf2c824b <unknown>
+#11 0x557ccf2cc2f1 <unknown>
+#12 0x557ccf2b3afe <unknown>
+#13 0x557ccf2cce52 <unknown>
+#14 0x557ccf29879f <unknown>
+#15 0x557ccf2f1638 <unknown>
+#16 0x557ccf2f1810 <unknown>
+#17 0x557ccf300dac <unknown>
+#18 0x7f882ac94ac3 <unknown>
+
+2024-07-14 10:00:17,028 - INFO - Files data/data_after/women_olympic_games_records.csv and data/data_after/men_olympic_games_records.csv have been created successfully.
+2024-07-14 10:00:17,028 - INFO - Processing category: african-records
+2024-07-14 10:00:53,080 - INFO - Cookie consent dialog not found or already dismissed: Message: 
+Stacktrace:
+#0 0x557ccf301c7a <unknown>
+#1 0x557ccefe4e2c <unknown>
+#2 0x557ccf031661 <unknown>
+#3 0x557ccf031751 <unknown>
+#4 0x557ccf075f64 <unknown>
+#5 0x557ccf0545ed <unknown>
+#6 0x557ccf073303 <unknown>
+#7 0x557ccf054363 <unknown>
+#8 0x557ccf024247 <unknown>
+#9 0x557ccf024b9e <unknown>
+#10 0x557ccf2c824b <unknown>
+#11 0x557ccf2cc2f1 <unknown>
+#12 0x557ccf2b3afe <unknown>
+#13 0x557ccf2cce52 <unknown>
+#14 0x557ccf29879f <unknown>
+#15 0x557ccf2f1638 <unknown>
+#16 0x557ccf2f1810 <unknown>
+#17 0x557ccf300dac <unknown>
+#18 0x7f882ac94ac3 <unknown>
+
+2024-07-14 10:00:53,228 - INFO - Files data/data_after/women_african_records.csv and data/data_after/men_african_records.csv have been created successfully.
+2024-07-14 10:00:53,228 - INFO - Processing category: asian-records
+2024-07-14 10:01:07,491 - INFO - Cookie consent dialog not found or already dismissed: Message: 
+Stacktrace:
+#0 0x557ccf301c7a <unknown>
+#1 0x557ccefe4e2c <unknown>
+#2 0x557ccf031661 <unknown>
+#3 0x557ccf031751 <unknown>
+#4 0x557ccf075f64 <unknown>
+#5 0x557ccf0545ed <unknown>
+#6 0x557ccf073303 <unknown>
+#7 0x557ccf054363 <unknown>
+#8 0x557ccf024247 <unknown>
+#9 0x557ccf024b9e <unknown>
+#10 0x557ccf2c824b <unknown>
+#11 0x557ccf2cc2f1 <unknown>
+#12 0x557ccf2b3afe <unknown>
+#13 0x557ccf2cce52 <unknown>
+#14 0x557ccf29879f <unknown>
+#15 0x557ccf2f1638 <unknown>
+#16 0x557ccf2f1810 <unknown>
+#17 0x557ccf300dac <unknown>
+#18 0x7f882ac94ac3 <unknown>
+
+2024-07-14 10:01:07,633 - INFO - Files data/data_after/women_asian_records.csv and data/data_after/men_asian_records.csv have been created successfully.
+2024-07-14 10:01:07,633 - INFO - Processing category: european-records
+2024-07-14 10:01:19,844 - INFO - Cookie consent dialog not found or already dismissed: Message: 
+Stacktrace:
+#0 0x557ccf301c7a <unknown>
+#1 0x557ccefe4e2c <unknown>
+#2 0x557ccf031661 <unknown>
+#3 0x557ccf031751 <unknown>
+#4 0x557ccf075f64 <unknown>
+#5 0x557ccf0545ed <unknown>
+#6 0x557ccf073303 <unknown>
+#7 0x557ccf054363 <unknown>
+#8 0x557ccf024247 <unknown>
+#9 0x557ccf024b9e <unknown>
+#10 0x557ccf2c824b <unknown>
+#11 0x557ccf2cc2f1 <unknown>
+#12 0x557ccf2b3afe <unknown>
+#13 0x557ccf2cce52 <unknown>
+#14 0x557ccf29879f <unknown>
+#15 0x557ccf2f1638 <unknown>
+#16 0x557ccf2f1810 <unknown>
+#17 0x557ccf300dac <unknown>
+#18 0x7f882ac94ac3 <unknown>
+
+2024-07-14 10:01:20,001 - INFO - Files data/data_after/women_european_records.csv and data/data_after/men_european_records.csv have been created successfully.
+2024-07-14 10:01:20,001 - INFO - Processing category: nacac-records
+2024-07-14 10:02:25,036 - INFO - Cookie consent dialog not found or already dismissed: Message: 
+Stacktrace:
+#0 0x557ccf301c7a <unknown>
+#1 0x557ccefe4e2c <unknown>
+#2 0x557ccf031661 <unknown>
+#3 0x557ccf031751 <unknown>
+#4 0x557ccf075f64 <unknown>
+#5 0x557ccf0545ed <unknown>
+#6 0x557ccf073303 <unknown>
+#7 0x557ccf054363 <unknown>
+#8 0x557ccf024247 <unknown>
+#9 0x557ccf024b9e <unknown>
+#10 0x557ccf2c824b <unknown>
+#11 0x557ccf2cc2f1 <unknown>
+#12 0x557ccf2b3afe <unknown>
+#13 0x557ccf2cce52 <unknown>
+#14 0x557ccf29879f <unknown>
+#15 0x557ccf2f1638 <unknown>
+#16 0x557ccf2f1810 <unknown>
+#17 0x557ccf300dac <unknown>
+#18 0x7f882ac94ac3 <unknown>
+
+2024-07-14 10:02:25,166 - INFO - Files data/data_after/women_nacac_records.csv and data/data_after/men_nacac_records.csv have been created successfully.
+2024-07-14 10:02:25,166 - INFO - Processing category: oceanian-records
+2024-07-14 10:02:38,702 - INFO - Cookie consent dialog not found or already dismissed: Message: 
+Stacktrace:
+#0 0x557ccf301c7a <unknown>
+#1 0x557ccefe4e2c <unknown>
+#2 0x557ccf031661 <unknown>
+#3 0x557ccf031751 <unknown>
+#4 0x557ccf075f64 <unknown>
+#5 0x557ccf0545ed <unknown>
+#6 0x557ccf073303 <unknown>
+#7 0x557ccf054363 <unknown>
+#8 0x557ccf024247 <unknown>
+#9 0x557ccf024b9e <unknown>
+#10 0x557ccf2c824b <unknown>
+#11 0x557ccf2cc2f1 <unknown>
+#12 0x557ccf2b3afe <unknown>
+#13 0x557ccf2cce52 <unknown>
+#14 0x557ccf29879f <unknown>
+#15 0x557ccf2f1638 <unknown>
+#16 0x557ccf2f1810 <unknown>
+#17 0x557ccf300dac <unknown>
+#18 0x7f882ac94ac3 <unknown>
+
+2024-07-14 10:02:38,861 - INFO - Files data/data_after/women_oceanian_records.csv and data/data_after/men_oceanian_records.csv have been created successfully.
+2024-07-14 10:02:38,861 - INFO - Processing category: south-american-records
+2024-07-14 10:03:18,249 - INFO - Cookie consent dialog not found or already dismissed: Message: 
+Stacktrace:
+#0 0x557ccf301c7a <unknown>
+#1 0x557ccefe4e2c <unknown>
+#2 0x557ccf031661 <unknown>
+#3 0x557ccf031751 <unknown>
+#4 0x557ccf075f64 <unknown>
+#5 0x557ccf0545ed <unknown>
+#6 0x557ccf073303 <unknown>
+#7 0x557ccf054363 <unknown>
+#8 0x557ccf024247 <unknown>
+#9 0x557ccf024b9e <unknown>
+#10 0x557ccf2c824b <unknown>
+#11 0x557ccf2cc2f1 <unknown>
+#12 0x557ccf2b3afe <unknown>
+#13 0x557ccf2cce52 <unknown>
+#14 0x557ccf29879f <unknown>
+#15 0x557ccf2f1638 <unknown>
+#16 0x557ccf2f1810 <unknown>
+#17 0x557ccf300dac <unknown>
+#18 0x7f882ac94ac3 <unknown>
+
+2024-07-14 10:03:18,393 - INFO - Files data/data_after/women_south_american_records.csv and data/data_after/men_south_american_records.csv have been created successfully.
