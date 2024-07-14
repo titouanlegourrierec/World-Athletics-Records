@@ -80,7 +80,7 @@ def twitter_message(df: pd.DataFrame) -> str:
         old_venue = row[1]["VENUE_before"]
         old_date = row[1]["DATE_before"]
 
-        message = f"🚨 New {discipline} {sex} {category.replace("_", " ")} Record Alert! 🚨\n"
+        message = f"🚨 New {discipline} {sex} {category.replace('_', '')} Record Alert! 🚨\n"
         message += f"🌟 {new_competitor} ({country_code_to_flag_emoji(old_country)}) shatters the record with a performance of {new_perf} 🏆 in {new_venue}, {new_date}.\n"
         message += f"👏 Previous record: {old_competitor} ({country_code_to_flag_emoji(old_country)}) - {old_perf} in {old_venue}, {old_date}."
 
