@@ -51,7 +51,7 @@ def main():
 
     sync_folders()
     logging.info("Folders synced. data/data_after files moved to data/data_before and cleared.")
-    logging.info("Script completed.")
+    logging.info("Script completed. \n\n --- \n")
 
 if __name__ == "__main__":
     main()
