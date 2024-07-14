@@ -27,8 +27,8 @@ def generate_diff_dataframes() -> pd.DataFrame:
 
     for s in sex_categories:
         for c in record_categories:
-            file_name_before = f'data/data_before_1/{s}_{c}_records.csv'
-            file_name_after = f'data/data_after_1/{s}_{c}_records.csv'
+            file_name_before = f'data/data_before/{s}_{c}_records.csv'
+            file_name_after = f'data/data_after/{s}_{c}_records.csv'
             
             data_before = pd.read_csv(file_name_before)
             data_after = pd.read_csv(file_name_after)
