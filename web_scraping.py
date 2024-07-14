@@ -21,7 +21,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename='log/log.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', filemode='a')
 
 ############################################################################################################
 ##############################           Web scraping functions           ##################################
@@ -138,10 +138,10 @@ def main():
         for category, file_name in categories:
             base_url = "https://worldathletics.org/records/by-category/"
             logging.info(f"Processing category: {category}")
-            get_content_and_create_csv(driver, f"{base_url}{category}", None, f"data_after/women_{file_name}.csv")
-            get_content_and_create_csv(driver, f"{base_url}{category}", men_button, f"data_after/men_{file_name}.csv")
+            get_content_and_create_csv(driver, f"{base_url}{category}", None, f"data/data_after/women_{file_name}.csv")
+            get_content_and_create_csv(driver, f"{base_url}{category}", men_button, f"data/data_after/men_{file_name}.csv")
 
-            logging.info(f"Files data_after/women_{file_name}.csv and data_after/men_{file_name}.csv have been created successfully.")
+            logging.info(f"Files data/data_after/women_{file_name}.csv and data/data_after/men_{file_name}.csv have been created successfully.")
 
 if __name__ == "__main__":
     main()
