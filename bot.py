@@ -15,6 +15,7 @@ Author: LE GOURRIEREC Titouan
 ############################################################################################################
 
 import logging
+import time
 import numpy as np
 
 from data_analysis import generate_diff_dataframes
@@ -45,8 +46,8 @@ def main():
     memory = np.load("log/memory.npy").tolist()
     for message in messages:
         response = post_tweet(client, api, message)
-
         memory.append(response.data['id'])
+        time.sleep(5)
     np.save("log/memory.npy", memory)
 
     sync_folders()

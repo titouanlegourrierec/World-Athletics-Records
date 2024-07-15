@@ -61,12 +61,12 @@ def post_tweet(client : tweepy.Client, api : tweepy.API, message : str, image_pa
         - message (str): The text of the tweet.
         - image_path (str): The file path of the image to be uploaded.
     """
-    media_ids = []
     if image_path is not None:
         media = api.media_upload(image_path)
-        media_ids.append(media.media_id)
-    
-    response = client.create_tweet(text=message, media_ids=media_ids)
+        response = client.create_tweet(text=message, media_ids=[media.media_id])
+    else:
+        response = client.create_tweet(text=message)
+
     logging.info(f"Tweet posted: https://twitter.com/user/status/{response.data['id']}")
 
     return response

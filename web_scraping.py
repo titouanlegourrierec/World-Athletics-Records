@@ -82,7 +82,7 @@ def dismiss_cookie_consent(driver):
         logging.info("Cookie consent dismissed.")
     except Exception as e:
         # If the cookie consent dialog is not found, ignore the exception
-        logging.info(f"Cookie consent dialog not found or already dismissed: {e}")
+        logging.info(f"Cookie consent dialog not found or already dismissed.")
 
 
 def click_button(driver: webdriver.Chrome, xpath: str) -> None:
