@@ -84,6 +84,6 @@ def twitter_message(df: pd.DataFrame) -> str:
         message += f"🌟 {new_competitor} ({country_code_to_flag_emoji(old_country)}) shatters the record with a performance of {new_perf} 🏆 in {new_venue}, {new_date}.\n"
         message += f"👏 Previous record: {old_competitor} ({country_code_to_flag_emoji(old_country)}) - {old_perf} in {old_venue}, {old_date}."
 
-    messages.append(message)
+        messages.append(message)
 
     return messages
