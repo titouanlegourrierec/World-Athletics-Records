@@ -352,3 +352,30 @@
 2024-07-22 17:07:04,141 - INFO - Authenticated with Twitter.
 2024-07-22 17:07:04,488 - INFO - Data loaded.
 2024-07-22 17:07:04,491 - INFO - 33 Tweet messages generated.
+2024-07-23 17:05:41,125 - INFO - Processing category: world-records
+2024-07-23 17:05:47,186 - INFO - Cookie consent dismissed.
+2024-07-23 17:05:47,607 - INFO - Files data/data_after/women_world_records.csv and data/data_after/men_world_records.csv have been created successfully.
+2024-07-23 17:05:47,607 - INFO - Processing category: olympic-games-records
+2024-07-23 17:06:01,960 - INFO - Cookie consent dialog not found or already dismissed.
+2024-07-23 17:06:02,066 - INFO - Files data/data_after/women_olympic_games_records.csv and data/data_after/men_olympic_games_records.csv have been created successfully.
+2024-07-23 17:06:02,066 - INFO - Processing category: african-records
+2024-07-23 17:06:15,758 - INFO - Cookie consent dialog not found or already dismissed.
+2024-07-23 17:06:15,909 - INFO - Files data/data_after/women_african_records.csv and data/data_after/men_african_records.csv have been created successfully.
+2024-07-23 17:06:15,909 - INFO - Processing category: asian-records
+2024-07-23 17:06:29,615 - INFO - Cookie consent dialog not found or already dismissed.
+2024-07-23 17:06:29,789 - INFO - Files data/data_after/women_asian_records.csv and data/data_after/men_asian_records.csv have been created successfully.
+2024-07-23 17:06:29,789 - INFO - Processing category: european-records
+2024-07-23 17:06:45,410 - INFO - Cookie consent dialog not found or already dismissed.
+2024-07-23 17:06:45,569 - INFO - Files data/data_after/women_european_records.csv and data/data_after/men_european_records.csv have been created successfully.
+2024-07-23 17:06:45,569 - INFO - Processing category: nacac-records
+2024-07-23 17:07:00,006 - INFO - Cookie consent dialog not found or already dismissed.
+2024-07-23 17:07:00,165 - INFO - Files data/data_after/women_nacac_records.csv and data/data_after/men_nacac_records.csv have been created successfully.
+2024-07-23 17:07:00,166 - INFO - Processing category: oceanian-records
+2024-07-23 17:07:13,720 - INFO - Cookie consent dialog not found or already dismissed.
+2024-07-23 17:07:13,878 - INFO - Files data/data_after/women_oceanian_records.csv and data/data_after/men_oceanian_records.csv have been created successfully.
+2024-07-23 17:07:13,878 - INFO - Processing category: south-american-records
+2024-07-23 17:07:27,752 - INFO - Cookie consent dialog not found or already dismissed.
+2024-07-23 17:07:27,904 - INFO - Files data/data_after/women_south_american_records.csv and data/data_after/men_south_american_records.csv have been created successfully.
+2024-07-23 17:07:28,476 - INFO - Authenticated with Twitter.
+2024-07-23 17:07:28,845 - INFO - Data loaded.
+2024-07-23 17:07:28,849 - INFO - 36 Tweet messages generated.
