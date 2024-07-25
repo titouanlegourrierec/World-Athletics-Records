@@ -380,3 +380,5 @@
 2024-07-23 17:07:28,845 - INFO - Data loaded.
 2024-07-23 17:07:28,849 - INFO - 36 Tweet messages generated.
 2024-07-24 17:05:55,052 - INFO - Processing category: world-records
+2024-07-25 17:05:32,045 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-07-25 17:05:38,890 - INFO - Processing category: world-records
