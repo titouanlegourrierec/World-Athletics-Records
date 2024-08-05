@@ -398,3 +398,10 @@
 2024-08-02 17:07:30,881 - INFO - Processing category: world-records
 2024-08-03 17:03:51,988 - INFO - Processing category: world-records
 2024-08-04 17:04:07,976 - INFO - Processing category: world-records
+2024-08-05 17:05:11,382 - INFO - Processing category: world-records
+2024-08-05 17:05:14,618 - INFO - Cookie consent dismissed.
+2024-08-05 17:05:15,023 - INFO - Files data/data_after/women_world_records.csv and data/data_after/men_world_records.csv have been created successfully.
+2024-08-05 17:05:15,023 - INFO - Processing category: olympic-games-records
+2024-08-05 17:05:28,145 - INFO - Cookie consent dialog not found or already dismissed.
+2024-08-05 17:05:28,238 - INFO - Files data/data_after/women_olympic_games_records.csv and data/data_after/men_olympic_games_records.csv have been created successfully.
+2024-08-05 17:05:28,239 - INFO - Processing category: african-records
